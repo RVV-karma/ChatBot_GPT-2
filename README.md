@@ -4,7 +4,7 @@ A NLP project to create a chatbot using GPT-2 model.
 ## Aim
 The aim of this notebook is to create a (general use) chatbot using GPT-2 (Generative Pretrained Transformer 2) model.
 
-## Chat predictions
+## Model
 
 ### GPT2 class
 In this class, the GPT-2 (pretrained) model is used to get predictions for the given text. Then, a whole line is extracted from it and taken as next chat line. 
